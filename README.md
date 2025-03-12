@@ -11,8 +11,8 @@ This Excel dashboard analyzes city traffic incidents to identify peak congestion
 ## How to Use  
 1. Open the Excel file.  
 2. Navigate through the interactive charts.  
-3. Use filters (if available) to explore specific trends.  
+3. Use filters to explore specific trends.  
 
 ## Requirements  
-- Microsoft Excel (2016 or later recommended).
+- Microsoft Excel .
 
